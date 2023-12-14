@@ -37,12 +37,6 @@ const music_list = [
         name : 'يا رجائي',
         artist : 'محمد المقيط',
         music : 'songs/audio4.mp3'
-    },
-    {
-        img : 'images/pic3.png',
-        name : 'Nasheed',
-        artist : 'Ali_Dawood',
-        music : 'songs/audio.mp3'
     }
 ];
 
