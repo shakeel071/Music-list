@@ -33,16 +33,16 @@ const music_list = [
         music : 'songs/repantance.mp3'
     },
     {
-        img : 'images/pic3.png',
-        name : 'Nasheed',
-        artist : 'Ali_Dawood',
-        music : 'songs/audio.mp3'
-    },
-    {
         img : 'images/pic4.png',
         name : 'يا رجائي',
         artist : 'محمد المقيط',
         music : 'songs/audio4.mp3'
+    },
+    {
+        img : 'images/pic3.png',
+        name : 'Nasheed',
+        artist : 'Ali_Dawood',
+        music : 'songs/audio.mp3'
     }
 ];
 
