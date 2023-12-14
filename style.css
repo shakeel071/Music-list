@@ -30,11 +30,7 @@ body {
     background-size: cover;
     background-position: center;
     border-radius: 50%;
-    -moz-box-shadow: 0px 6px 5px black;
-    -webkit-box-shadow: 0px 6px 5px black;
     box-shadow: 0px 6px 5px black;
-    -moz-border-radius:190px;
-    -webkit-border-radius:190px;
     border-radius:190px;
     }
     
@@ -81,8 +77,6 @@ body {
     align-items: center;
     }
     .seek_slider, .volume_slider {
-    -webkit-appearance: none;
-    -moz-appearance: none;
     appearance: none;
     height: 5px;
     background: #83A9FF;
@@ -91,8 +85,6 @@ body {
     }
     .seek_slider::-webkit-slider-thumb,
     .volume_slider::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    -moz-appearance: none;
     appearance: none;
     width: 15px;
     height: 15px;
